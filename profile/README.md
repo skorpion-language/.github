@@ -7,7 +7,7 @@
 
 ### Main Repository
 
-<p align="center"><a href="https://github.com/skorpion-language/skorpion"><img alt="Go to" src="https://img.shields.io/badge/View_repo-purple?style=for-the-badge"/></a>&nbsp;<a href="https://github.com/skorpion-language/skorpion/blob/main/LICENSE"><img alt="MIT" src="https://img.shields.io/badge/MIT-green?style=for-the-badge"/></a></p>
+<p align="center"><a href="https://github.com/skorpion-language/skorpion"><img alt="Go to" src="https://img.shields.io/badge/View_repo-yellow?style=for-the-badge"/></a>&nbsp;<a href="https://github.com/skorpion-language/skorpion/blob/main/LICENSE"><img alt="MIT" src="https://img.shields.io/badge/MIT-green?style=for-the-badge"/></a></p>
 
 ### Skorpion Norms And Rules
 
