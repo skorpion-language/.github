@@ -11,12 +11,12 @@
 
 ### Skorpion Norms And Rules
 
-<https://github.com/skorpion-language/snar>
+<p align="center"><a href="https://github.com/skorpion-language/snar"><img alt="Repository" src="https://img.shields.io/badge/Repository-green?style=for-the-badge"/></a>&nbsp;<a href="https://github.com/skorpion-language/snar/releases"><img alt="Releases" src="https://img.shields.io/badge/Releases-purple?style=for-the-badge"/></a>&nbsp;<a href="https://github.com/skorpion-language/snar/blob/main/LICENSE"><img alt="LICENSE" src="https://img.shields.io/badge/License-gray?style=for-the-badge"/></a></p>
 
 ### Visual Studio Code Extension
 
-<https://github.com/skorpion-language/sk-vsce>
+<p align="center"><a href="https://github.com/skorpion-language/sk-vsce"><img alt="Repository" src="https://img.shields.io/badge/Repository-green?style=for-the-badge"/></a>&nbsp;<a href="https://github.com/skorpion-language/sk-vsce/releases"><img alt="Releases" src="https://img.shields.io/badge/Releases-purple?style=for-the-badge"/></a>&nbsp;<a href="https://github.com/skorpion-language/sk-vsce/blob/main/LICENSE"><img alt="LICENSE" src="https://img.shields.io/badge/License-gray?style=for-the-badge"/></a></p>
 
 ### Skorpion Logo
 
-<https://github.com/skorpion-language/sk-brand>
+<p align="center"><a href="https://github.com/skorpion-language/sk-brand"><img alt="Repository" src="https://img.shields.io/badge/Repository-green?style=for-the-badge"/></a>&nbsp;<a href="https://github.com/skorpion-language/sk-brand/releases"><img alt="Readme" src="https://img.shields.io/badge/Readme-purple?style=for-the-badge"/></a>&nbsp;<a href="https://github.com/skorpion-language/sk-brand/blob/main/LICENSE"><img alt="LICENSE" src="https://img.shields.io/badge/License-gray?style=for-the-badge"/></a></p>
