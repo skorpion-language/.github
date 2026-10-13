@@ -6,7 +6,8 @@
 ## Links
 
 ### Main Repository
- <https://github.com/skorpion-language/skorpion>
+
+<p align="center"><a href="https://github.com/skorpion-language/skorpion"><img alt="Go to" src=""></a></p>
 
 ### Skorpion Norms And Rules
 
