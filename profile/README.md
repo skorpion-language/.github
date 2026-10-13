@@ -19,4 +19,4 @@
 
 ### Skorpion Logo
 
-<p align="center"><a href="https://github.com/skorpion-language/sk-brand"><img alt="Repository" src="https://img.shields.io/badge/Repository-green?style=for-the-badge"/></a>&nbsp;<a href="https://github.com/skorpion-language/sk-brand/releases"><img alt="Readme" src="https://img.shields.io/badge/Readme-purple?style=for-the-badge"/></a>&nbsp;<a href="https://github.com/skorpion-language/sk-brand/blob/main/LICENSE"><img alt="LICENSE" src="https://img.shields.io/badge/License-gray?style=for-the-badge"/></a></p>
+<p align="center"><a href="https://github.com/skorpion-language/sk-brand"><img alt="Repository" src="https://img.shields.io/badge/Repository-green?style=for-the-badge"/></a>&nbsp;<a href="https://github.com/skorpion-language/sk-brand/blob/main/README.md"><img alt="Readme" src="https://img.shields.io/badge/Readme-purple?style=for-the-badge"/></a>&nbsp;<a href="https://github.com/skorpion-language/sk-brand/blob/main/LICENSE"><img alt="LICENSE" src="https://img.shields.io/badge/License-gray?style=for-the-badge"/></a></p>
